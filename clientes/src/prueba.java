@@ -1,5 +1,7 @@
 public class prueba {
+    public static void main(String[] args) {
 
  System.out.println("Realizado por Regina Vera Ramirez ");
  var int =5;
+    }
 }
